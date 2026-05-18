@@ -4,7 +4,9 @@
   "description": "Repositorio dirigido a mi estudio y practicas con el lenguaje Typescript, utilizandolo con Node.js para el Back-End",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
