@@ -1,0 +1,25 @@
+{
+  "name": "pracitas_ts-node",
+  "version": "1.0.0",
+  "description": "Repositorio dirigido a mi estudio y practicas con el lenguaje Typescript, utilizandolo con Node.js para el Back-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zucaras/Pracitas_TS-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zucaras/Pracitas_TS-Node.js/issues"
+  },
+  "homepage": "https://github.com/Zucaras/Pracitas_TS-Node.js#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.0",
+    "typescript": "^6.0.3"
+  }
+}
