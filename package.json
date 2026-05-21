@@ -4,7 +4,7 @@
   "description": "Repositorio dirigido a mi estudio y practicas con el lenguaje Typescript, utilizandolo con Node.js para el Back-End",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "build": "tsc",
     "start": "node dist/index.js"
   },
